@@ -37,3 +37,7 @@
 ![Best result image](https://github.com/VladislavEpifanow/CV_Lab2_7_team/blob/main/results/best_result.png)
 * Худший вариант работы алгоритма:
 ![Worse result image](https://github.com/VladislavEpifanow/CV_Lab2_7_team/blob/main/results/worse%20result.png)
+
+## Выводы
+* Основная проблема этой задачи заключается в том, что алгоритм находит ключевые точки, которые не всегда могут находится на краю изображения, поэтому всегда есть какая то ошибка
+* Чем более детализированные и качественное изображение - тем больше шансов найти на нем ключевую точку
